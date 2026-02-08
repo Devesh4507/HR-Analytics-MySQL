@@ -66,7 +66,7 @@ and **three pay zones**.
 | Tenure Range | Percentage |
 |--------------|-----------|
 | Below 1 year | **0%** |
-| 1–3 years | ~10% |
+| 1–3 years | **10%** |
 | 3–5 years | **41%** |
 | 5+ years | **49%** |
 
